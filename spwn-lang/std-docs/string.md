@@ -25,7 +25,7 @@
 >``` 
 >**Type:** `@macro` 
 >## Description: 
-> _Checks does the string starts with a string._
+> _Checks does the string ends with a string._
 >## Arguments:
 >
 >| # | name | type | default value | description |
@@ -228,7 +228,7 @@
 >``` 
 >**Type:** `@macro` 
 >## Description: 
-> _Checks does the string starts with a string._
+> _Checks if the string starts with a string._
 >## Arguments:
 >
 >| # | name | type | default value | description |
